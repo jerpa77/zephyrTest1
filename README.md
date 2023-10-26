@@ -1,5 +1,5 @@
 
-# zephyrTest1 Setup
+# Setup - zephyrTest1 
 
 1.) Create a working folder
 
